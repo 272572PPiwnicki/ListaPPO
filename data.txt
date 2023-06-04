@@ -1,0 +1,2 @@
+Osoba:Imie=Cristiano,Nazwisko=Ronaldo,Pesel=850205976716,Wiek=38
+Osoba:Imie=Robert,Nazwisko=Lewandowski,Pesel=88082189592,Wiek=34
